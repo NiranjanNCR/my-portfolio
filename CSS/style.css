@@ -1006,7 +1006,7 @@ margin-right: 1em;
 }
 .swiper-client-msg{
     /* border: 1px solid red; */
-    height: 20rem;
+    height: auto;
     padding: 2rem;
     padding-right: 4rem;
 }
